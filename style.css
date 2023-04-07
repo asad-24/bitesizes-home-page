@@ -1,0 +1,32 @@
+.head-btn {
+    border-radius: 20px;
+}
+
+.tages p {
+    background: rgba(255, 116, 119, 0.08);
+
+    font-size: .75em;
+
+    border-radius: 18px;
+
+    color: #ff7477;
+
+}
+.card-star{
+  position: relative; height: 25vh;
+}
+
+.star {
+    position: absolute;
+    top: 117px;
+    left: 180px;
+}
+.input{
+
+        
+        font-weight: 700;
+        height: 7vh;
+        width: 100%;
+        margin-top: 20px;
+   
+}
